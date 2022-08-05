@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\Ellery\Desktop\code\project\c\最高最低分之差\源.c(7,13): error C2057: 应输入常量表达式
+C:\Users\Ellery\Desktop\code\project\c\最高最低分之差\源.c(7,14): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\Ellery\Desktop\code\project\c\最高最低分之差\源.c(7,9): error C2133: “arr”: 未知的大小
